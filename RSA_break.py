@@ -249,6 +249,7 @@ if __name__ == "__main__":
     for i in range(21):
         print('E' + str(i) + " = " + str(es[i]))
     '''
+    # 删除下面对应代码前的#即可运行相关的帧的攻击程序得到对应的明文，结果也已给出
     # 使用公共模数攻击的方法还原出Frame0和Frame4
     # Frame0: My secre
     # Frame4: My secre
